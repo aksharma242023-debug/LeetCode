@@ -1,6 +1,6 @@
 # 📝 20. Valid Parentheses (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/valid-parentheses/?utm_source=chatgpt.com)
+🔗 [Problem Link](https://leetcode.com/problems/valid-parentheses/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 String, Stack, Bracket Sequences
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 19.1 MB
 
 ---
 
