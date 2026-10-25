@@ -5,14 +5,14 @@ public:
         int right = s.length() - 1;
         
         while (left < right) {
-            while (left < right && !std::isalnum(s[left])) {
+            while (left < right && ! isalnum(s[left])) {
                 left++;
             }
-            while (left < right && !std::isalnum(s[right])) {
+            while (left < right && ! isalnum(s[right])) {
                 right--;
             }
             
-            if (tolower(s[left]) != std::tolower(s[right])) {
+            if (tolower(s[left]) != tolower(s[right])) {
                 return false;
             }
             
