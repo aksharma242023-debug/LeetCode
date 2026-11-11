@@ -1,6 +1,6 @@
 # 📝 191. Number of 1 Bits (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/number-of-1-bits)
+🔗 [Problem Link](https://leetcode.com/problems/number-of-1-bits/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Divide and Conquer, Bit Manipulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 19.3 MB
 
 ---
 
@@ -17,7 +17,7 @@ Divide and Conquer, Bit Manipulation
 
 Given a positive integer  `n` , write a function that returns the number of set bits in its binary representation (also known as the  [Hamming weight](http://en.wikipedia.org/wiki/Hamming_weight) ).
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 **Input:**  n = 11
 
