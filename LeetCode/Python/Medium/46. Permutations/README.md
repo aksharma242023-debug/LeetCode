@@ -1,6 +1,6 @@
 # 📝 46. Permutations (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/permutations/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/permutations/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Backtracking
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 19.3 MB
 
 ---
 
@@ -17,7 +17,7 @@ Array, Backtracking
 
 Given an array  `nums`  of distinct integers, return all the possible permutations. You can return the answer in  **any order** .
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,2,3]
