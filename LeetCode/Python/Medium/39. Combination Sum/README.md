@@ -1,6 +1,6 @@
 # 📝 39. Combination Sum (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/combination-sum)
+🔗 [Problem Link](https://leetcode.com/problems/combination-sum/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Backtracking
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 12 ms
+- **Memory:** 19.3 MB
 
 ---
 
@@ -21,7 +21,7 @@ The  **same**  number may be chosen from  `candidates`  an  **unlimited number o
 
 The test cases are generated such that the number of unique combinations that sum up to  `target`  is less than  `150`  combinations for the given input.
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: candidates = [2,3,6,7], target = 7
