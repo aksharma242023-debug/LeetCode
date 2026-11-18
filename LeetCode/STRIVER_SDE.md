@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 15 / 76 (19.7%)
+- **Completed:** 16 / 76 (21.1%)
 
 ---
 
@@ -74,7 +74,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 ### 📂 Binary Tree & BST
 - [x] [Binary Tree Inorder Traversal](./Python/Easy/94. Binary Tree Inorder Traversal/)
 - [x] [Binary Tree Preorder Traversal](./Python/Easy/144. Binary Tree Preorder Traversal/)
-- [ ] Binary Tree Postorder Traversal
+- [x] [Binary Tree Postorder Traversal](./C++/Easy/145. Binary Tree Postorder Traversal/)
 - [ ] Binary Tree Level Order Traversal
 - [x] [Maximum Depth of Binary Tree](./Python/Easy/104. Maximum Depth of Binary Tree/)
 - [ ] Diameter of Binary Tree
