@@ -1,6 +1,6 @@
 # 📝 121. Best Time to Buy and Sell Stock (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+🔗 [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -21,7 +21,7 @@ You want to maximize your profit by choosing a  **single day**  to buy one stock
 
 Return  *the maximum profit you can achieve from this transaction* . If you cannot achieve any profit, return  `0` .
 
-OriginalC++ **Example 1:**
+**Example 1:**
 
 ```
 Input: prices = [7,1,5,3,6,4]
