@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 16 / 76 (21.1%)
+- **Completed:** 17 / 76 (22.4%)
 
 ---
 
@@ -39,7 +39,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Remove Nth Node From End of List
 - [x] [Add Two Numbers](./Python/Medium/2. Add Two Numbers/)
 - [ ] Delete Node in a Linked List
-- [ ] Intersection of Two Linked Lists
+- [x] [Intersection of Two Linked Lists](./C++/Easy/160. Intersection of Two Linked Lists/)
 - [x] [Linked List Cycle](./Python/Easy/141. Linked List Cycle/)
 - [ ] Reverse Nodes in k-Group
 - [ ] Palindrome Linked List
