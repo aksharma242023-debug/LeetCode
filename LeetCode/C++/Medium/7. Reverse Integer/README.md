@@ -8,7 +8,7 @@
 Math
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
@@ -19,7 +19,7 @@ Given a signed 32-bit integer  `x` , return  `x`  *with its digits reversed* . I
 
 **Assume the environment does not allow you to store 64-bit integers (signed or unsigned).**
 
-OriginalC++ **Example 1:**
+**Example 1:**
 
 ```
 Input: x = 123
