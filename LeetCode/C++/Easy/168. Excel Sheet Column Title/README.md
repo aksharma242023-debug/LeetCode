@@ -1,6 +1,6 @@
 # 📝 168. Excel Sheet Column Title (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/excel-sheet-column-title)
+🔗 [Problem Link](https://leetcode.com/problems/excel-sheet-column-title/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Math, String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 7.6 MB
 
 ---
 
@@ -31,7 +31,7 @@ AB -> 28
 
 ```
 
-OriginalC++ **Example 1:**
+**Example 1:**
 
 ```
 Input: columnNumber = 1
